@@ -6,7 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](./LICENSE)
 
-**[✨ Live Demo](#) · [📖 Features](./FEATURES.md) · [🔍 Detailed Docs](./FEATURES_DETAILED.md) · [🗺️ Roadmap](./CHANGELOG.md)**
+**[✨ Live Demo](https://developer-s-heaven.vercel.app/) · [📖 Features](./FEATURES.md) · [🔍 Detailed Docs](./FEATURES_DETAILED.md) · [🗺️ Roadmap](./CHANGELOG.md)**
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-**Built with 🧠 + ☕ by [Dhruv J]((https://github.com/TechTinker-007))**
+**Built with 🧠 + ☕ by [Dhruv J](https://github.com/TechTinker-007)**
 
 If this project helped you think about your own site logistics — a ⭐ goes a long way.
 
