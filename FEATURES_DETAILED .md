@@ -86,9 +86,3 @@ Charts are ordered: overview (spend trend, cost share) → breakdown (cost distr
 
 ---
 
-## 🧭 Planned Enhancements
-- **Unified entry bar**: merge "Log a material delivery" and "Log usage" into a single card/tabbed interface without changing either form's underlying logic
-- **Custom units**: "+ Add new unit" option in the Unit dropdown with inline save, persisted for future entries
-- **Supplier-attributed price ranges**: show which supplier corresponds to the min/max unit price per material
-- **Live alerts**: real-time budget threshold trigger and expected-delivery-date notifications (bell icon + Alerts tab)
-- **Performance**: optimistic UI updates and targeted re-renders for add/delete/log actions to eliminate full-page lag
