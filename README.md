@@ -16,9 +16,11 @@
 
 > Managing construction material logistics across spreadsheets and chat threads is messy, error-prone, and impossible to audit. **Developer's Heaven centralizes it** — every delivery, every unit used, every rupee spent, tracked per project, visualized in real time.
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
+
 
 ### 🎯 Built For
 - Site engineers
