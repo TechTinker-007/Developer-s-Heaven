@@ -44,15 +44,4 @@
 
 ---
 
-## 🚧 Planned / In Progress
-
-| Feature | Status |
-|---|:---:|
-| Custom unit creation from the Unit dropdown | 🔜 Planned |
-| Supplier name attribution on min/max price rows | 🔜 Planned |
-| Real-time budget threshold alerts | 🔜 Planned |
-| Expected-delivery-date notifications | 🔜 Planned |
-| Performance optimization for add/delete/log actions | 🔜 Planned |
-| Unified delivery + usage entry bar | 🔜 Planned |
-
 > 📜 See [CHANGELOG.md](./CHANGELOG.md) for full version history.
