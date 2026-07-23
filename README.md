@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏗️ Developer's Heaven
+# 🏗️ Real Estate Inventory Manager
 
 ### Material logistics tracking for real estate & construction projects — built for people who are tired of spreadsheets and WhatsApp chaos.
 
