@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Why Developer's Heaven?
+## 🚀 Why Real Estate Inventory Manager?
 
 > Managing construction material logistics across spreadsheets and chat threads is messy, error-prone, and impossible to audit. **Developer's Heaven centralizes it** — every delivery, every unit used, every rupee spent, tracked per project, visualized in real time.
 
